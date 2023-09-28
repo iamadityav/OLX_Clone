@@ -1,3 +1,22 @@
+<img width="395" alt="OLX1" src="https://github.com/iamadityav/OLX_Clone/assets/70755876/cb846f5b-bfb2-4b43-b87d-0b3a96def1ac">
+
+
+
+<img width="411" alt="OLX2" src="https://github.com/iamadityav/OLX_Clone/assets/70755876/bd36a6c9-9229-433c-b1bd-8aa3dc185129">
+
+
+
+
+<img width="433" alt="OLX3" src="https://github.com/iamadityav/OLX_Clone/assets/70755876/4b5133b2-9e49-4d98-8f8a-2377ec56e07f">
+
+
+
+
+<img width="459" alt="OLX4" src="https://github.com/iamadityav/OLX_Clone/assets/70755876/5ed31fe8-6f59-4831-9104-46733c42b8e6">
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
